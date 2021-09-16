@@ -41,7 +41,7 @@ wget -O /etc/yum.repos.d/CentOS-Linux-Plus.repo        https://raw.githubusercon
 wget -O /etc/yum.repos.d/CentOS-Linux-PowerTools.repo  https://raw.githubusercontent.com/xyzzen/repos/master/bfsu/centos8/CentOS-Linux-PowerTools.repo
 ```
 
-##国内gitee加速
+## 国内gitee加速
 ## 中科大源
 ### epel
 ```
