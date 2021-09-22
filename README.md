@@ -45,41 +45,41 @@ wget -O /etc/yum.repos.d/CentOS-Linux-PowerTools.repo  https://raw.githubusercon
 ## 中科大源
 ### epel
 ```
-wget -O /etc/yum.repos.d/epel.repo https://gitee.com/xyz_zen/ohmyzsh/raw/master/utsc/epel.repo 
+wget -O /etc/yum.repos.d/epel.repo https://gitee.com/xyz_zen/repos/raw/master/utsc/epel.repo 
 ```
 ### centos7
 ```
 cp -r /etc/yum.repos.d /opt
-wget -O /etc/yum.repos.d/CentOS-Base.repo https://gitee.com/xyz_zen/ohmyzsh/raw/master/utsc/centos7/CentOS-Base.repo 
+wget -O /etc/yum.repos.d/CentOS-Base.repo https://gitee.com/xyz_zen/repos/raw/master/utsc/centos7/CentOS-Base.repo 
 ```
 ### centos8
 ```
 cp -r /etc/yum.repos.d /opt
-wget -O /etc/yum.repos.d/CentOS-Linux-AppStream.repo   https://gitee.com/xyz_zen/ohmyzsh/raw/master/utsc/centos8/CentOS-Linux-AppStream.repo
-wget -O /etc/yum.repos.d/CentOS-Linux-BaseOS.repo      https://gitee.com/xyz_zen/ohmyzsh/raw/master/utsc/centos8/CentOS-Linux-BaseOS.repo
-wget -O /etc/yum.repos.d/CentOS-Linux-Extras.repo      https://gitee.com/xyz_zen/ohmyzsh/raw/master/utsc/centos8/CentOS-Linux-Extras.repo
-wget -O /etc/yum.repos.d/CentOS-Linux-Plus.repo        https://gitee.com/xyz_zen/ohmyzsh/raw/master/utsc/centos8/CentOS-Linux-Plus.repo
-wget -O /etc/yum.repos.d/CentOS-Linux-PowerTools.repo  https://gitee.com/xyz_zen/ohmyzsh/raw/master/utsc/centos8/CentOS-Linux-PowerTools.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-AppStream.repo   https://gitee.com/xyz_zen/repos/raw/master/utsc/centos8/CentOS-Linux-AppStream.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-BaseOS.repo      https://gitee.com/xyz_zen/repos/raw/master/utsc/centos8/CentOS-Linux-BaseOS.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-Extras.repo      https://gitee.com/xyz_zen/repos/raw/master/utsc/centos8/CentOS-Linux-Extras.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-Plus.repo        https://gitee.com/xyz_zen/repos/raw/master/utsc/centos8/CentOS-Linux-Plus.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-PowerTools.repo  https://gitee.com/xyz_zen/repos/raw/master/utsc/centos8/CentOS-Linux-PowerTools.repo
 ```
 
 ## 北外源
 ### epel
 ```
-wget -O /etc/yum.repos.d/epel.repo https://gitee.com/xyz_zen/ohmyzsh/raw/master/bfsu/epel.repo 
+wget -O /etc/yum.repos.d/epel.repo https://gitee.com/xyz_zen/repos/raw/master/bfsu/epel.repo 
 ```
 ### centos7
 ```
 cp -r /etc/yum.repos.d /opt
-wget -O /etc/yum.repos.d/CentOS-Base.repo https://gitee.com/xyz_zen/ohmyzsh/raw/master/bfsu/centos7/CentOS-Base.repo 
+wget -O /etc/yum.repos.d/CentOS-Base.repo https://gitee.com/xyz_zen/repos/raw/master/bfsu/centos7/CentOS-Base.repo 
 ```
 ### centos8 
 ```
 cp -r /etc/yum.repos.d /opt
-wget -O /etc/yum.repos.d/CentOS-Linux-AppStream.repo   https://gitee.com/xyz_zen/ohmyzsh/raw/master/bfsu/centos8/CentOS-Linux-AppStream.repo
-wget -O /etc/yum.repos.d/CentOS-Linux-BaseOS.repo      https://gitee.com/xyz_zen/ohmyzsh/raw/master/bfsu/centos8/CentOS-Linux-BaseOS.repo
-wget -O /etc/yum.repos.d/CentOS-Linux-Extras.repo      https://gitee.com/xyz_zen/ohmyzsh/raw/master/bfsu/centos8/CentOS-Linux-Extras.repo
-wget -O /etc/yum.repos.d/CentOS-Linux-Plus.repo        https://gitee.com/xyz_zen/ohmyzsh/raw/master/bfsu/centos8/CentOS-Linux-Plus.repo
-wget -O /etc/yum.repos.d/CentOS-Linux-PowerTools.repo  https://gitee.com/xyz_zen/ohmyzsh/raw/master/bfsu/centos8/CentOS-Linux-PowerTools.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-AppStream.repo   https://gitee.com/xyz_zen/repos/raw/master/bfsu/centos8/CentOS-Linux-AppStream.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-BaseOS.repo      https://gitee.com/xyz_zen/repos/raw/master/bfsu/centos8/CentOS-Linux-BaseOS.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-Extras.repo      https://gitee.com/xyz_zen/repos/raw/master/bfsu/centos8/CentOS-Linux-Extras.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-Plus.repo        https://gitee.com/xyz_zen/repos/raw/master/bfsu/centos8/CentOS-Linux-Plus.repo
+wget -O /etc/yum.repos.d/CentOS-Linux-PowerTools.repo  https://gitee.com/xyz_zen/repos/raw/master/bfsu/centos8/CentOS-Linux-PowerTools.repo
 ```
 
 
