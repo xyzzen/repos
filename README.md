@@ -41,7 +41,7 @@ wget -O /etc/yum.repos.d/CentOS-Linux-Plus.repo        https://raw.githubusercon
 wget -O /etc/yum.repos.d/CentOS-Linux-PowerTools.repo  https://raw.githubusercontent.com/xyzzen/repos/master/bfsu/centos8/CentOS-Linux-PowerTools.repo
 ```
 
-# 国内gitee加速
+# gitee加速
 ## 中科大源
 ### epel
 ```
@@ -81,5 +81,13 @@ wget -O /etc/yum.repos.d/CentOS-Linux-Extras.repo      https://gitee.com/xyz_zen
 wget -O /etc/yum.repos.d/CentOS-Linux-Plus.repo        https://gitee.com/xyz_zen/repos/raw/master/bfsu/centos8/CentOS-Linux-Plus.repo
 wget -O /etc/yum.repos.d/CentOS-Linux-PowerTools.repo  https://gitee.com/xyz_zen/repos/raw/master/bfsu/centos8/CentOS-Linux-PowerTools.repo
 ```
-
+# SCLo
+## github
+```
+wget -O /etc/yum.repos.d/CentOS-SCLo-rh.repo  https://raw.githubusercontent.com/xyzzen/repos/master/sclo/CentOS-SCLo-rh.repo
+```
+## gitee
+```
+wget -O /etc/yum.repos.d/CentOS-SCLo-rh.repo   https://gitee.com/xyz_zen/repos/raw/master/sclo/CentOS-SCLo-rh.repo
+```
 
